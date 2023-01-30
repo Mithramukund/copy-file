@@ -28,8 +28,7 @@ with open("git.txt","r") as f1:
 ```            
 
 ### OUTPUT:
-
-
+![5c-1](https://user-images.githubusercontent.com/121608770/215401297-72a50451-0491-40d8-9b9b-69f4919469c2.jpg)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
